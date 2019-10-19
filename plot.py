@@ -19,9 +19,6 @@ For comparison, a quantized image using a random codebook (colors picked up
 randomly) is also shown.
 """
 # Authors: Altun Baratli
-#          Elchin Mammadli
-#          Orkhan Rustamli
-#          Gulkhara Babayeva
 
 
 print(__doc__)
